@@ -1,1 +1,1 @@
-# odin-panels
+# Odin-control-panel
